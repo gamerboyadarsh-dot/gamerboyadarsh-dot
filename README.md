@@ -91,7 +91,7 @@ I use GitHub to document my projects, experiment with new technologies, and cont
 
 ## 🤝 Connect With Me
 
-**LinkedIn:** Adarsh Agrawal
+**LinkedIn:** Adarsh Agrawal : https://www.linkedin.com/in/adarsh-agrawal-3a325223a/
 **Email:** [gamerboyadarsh@gmail.com](mailto:gamerboyadarsh@gmail.com)
 
 ---
